@@ -16,5 +16,5 @@
  </p>
 
 <p align="left" ><img src="https://github-readme-stats.vercel.app/api/top-langs?username=volnei-alves&show_icons=true&locale=pt-br&layout=compact" alt="volnei-alves" width="45%" />
-<img  src="https://github-readme-stats.vercel.app/api?username=volnei-alves&show_icons=true&locale=pt-br" alt="volnei-alves" width="45%" /></p>
+<img  src="https://github-readme-stats.vercel.app/api?username=volnei-alves&show_icons=true&locale=pt-br" alt="volnei-alves" width="48%" /></p>
 <p/>
