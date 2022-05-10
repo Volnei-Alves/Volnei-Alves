@@ -15,6 +15,6 @@
  
  </p>
 
-<p align="left" ><img src="https://github-readme-stats.vercel.app/api/top-langs?username=volnei-alves&show_icons=true&locale=pt-br&layout=compact" alt="volnei-alves" width="40%" />
-<img  src="https://github-readme-stats.vercel.app/api?username=volnei-alves&show_icons=true&locale=pt-br" alt="volnei-alves" width="30%" /></p>
+<p align="left" ><img src="https://github-readme-stats.vercel.app/api/top-langs?username=volnei-alves&show_icons=true&locale=pt-br&layout=compact" alt="volnei-alves" width="30%" />
+<img  src="https://github-readme-stats.vercel.app/api?username=volnei-alves&show_icons=true&locale=pt-br" alt="volnei-alves" width="50%" /></p>
 <p/>
