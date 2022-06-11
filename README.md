@@ -1,5 +1,5 @@
 <h1 align="center">Oi 👋, eu sou Volnei Alves</h1>
-<h3 align="center">Eu sou um desenvolvedor full-stack, porém gosto mais de back-end</h3>
+<h3 align="center">Eu sou um desenvolvedor full-stack, porém me sinto mais confortável no back-end</h3>
 
 - 📫 Meu E-mail para contato: **volneialves.f@gmail.com**
 
